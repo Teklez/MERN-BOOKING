@@ -17,4 +17,4 @@ app.get('/api/test', async (req:Request, res:Response) =>{
 
 app.listen(5000, () => {
     console.log("server running on localhost: 5000")
-})
+}) 
