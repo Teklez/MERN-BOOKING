@@ -8,7 +8,7 @@ import {Link} from "react-router-dom";
             <Link to="/">EthioBooking.com</Link>
         </span>
         <span className="flex space-x-2">
-            <Link to="/sign-in" className="flex items-center text-blue-600 px-3 font-bold hover:bg-gray-100 hover:txt-gren-500">
+            <Link to="/sign-in" className="flex bg-white items-center text-blue-600 px-3 font-bold hover:bg-gray-100 hover:txt-gren-500">
                 Sgin in
             </Link>
         </span>

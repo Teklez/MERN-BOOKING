@@ -1,9 +1,11 @@
 import '../index.css';
 import Header from "../components/Header"
+import Hero from '../componenets/Hero';
 const Layout = () => {
     return (
         <div className="flex flex-col min-h-screen">
             <Header/>
+            <Hero/>
         </div>
     )
 }
